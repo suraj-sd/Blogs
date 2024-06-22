@@ -12,6 +12,7 @@ The application is divided into two main components: an API server for managing 
 **Installation**
 Follow these steps to set up the project on your local machine:
 1 Clone the repository:
+https://github.com/suraj-sd/Login_And_Registration.git
 
 2.Install dependencies:
 npm install

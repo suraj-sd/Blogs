@@ -23,7 +23,7 @@ npm start
 index.js:-The API server will run on http://localhost:4000.
 server.js:-The client server will run on http://localhost:3000.
 
-Usage
+**Usage**
 Home Page: Navigate to http://localhost:3000 to view all blog posts.
 Create Post: Click on the "New Post" button to create a new blog entry.
 Edit Post: Click on the "Edit" button next to any post to update it.
